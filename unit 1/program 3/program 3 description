@@ -1,0 +1,9 @@
+### 📌 Description of the Program
+
+This program demonstrates the use of an **array in C++** to store and display the marks of five students. An integer array named `marks` is initialized with five values: **78, 82, 91, 67, and 88**. A `for` loop is then used to traverse the array from the first element to the last element. Each mark is accessed using its array index and displayed on the screen using the `cout` statement. The program terminates successfully using `return 0`.
+
+**Concepts Used:**
+🔹 Array
+🔹 Array Indexing
+🔹 `for` Loop
+🔹 `cout` Statement
