@@ -1,0 +1,15 @@
+This program demonstrates the use of a **user-defined function in C++** to calculate the sum of two integers. The function `add()` is declared using a **function prototype** before the `main()` function. In `main()`, two integer variables `a` and `b` are initialized with the values **10 and 20**. The `add()` function is called by passing these two values as arguments. The function receives them through parameters `x` and `y`, adds them, and returns the result to the calling statement. Finally, the calculated sum is displayed using the `cout` statement.
+
+**Concepts Used:**
+🔹 User-defined Function
+🔹 Function Prototype
+🔹 Function Arguments and Parameters
+🔹 Function Calling
+🔹 Return Statement
+🔹 `cout` Statement
+
+**Output:**
+
+```text
+Sum = 30
+```
